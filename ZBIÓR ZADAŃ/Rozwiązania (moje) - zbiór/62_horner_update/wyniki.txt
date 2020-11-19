@@ -1,0 +1,19 @@
+Podpunkt 1
+
+Max: 777044
+Min: 1002
+
+Podpunkt 2
+
+Dlugosc ciagu: 6, 1szy element: 639
+
+Podpunkt 3
+
+Takie same: 160, 1 > 2: 357
+UWAGA: Wartość takich samych - 639 w kluczu jest BŁĘDNA - wpisali tu odpowiedź z podpunktu 2
+Zalaczylem plik z rozwiazania, ktory rowniez daje 160
+
+Podpunkt 4
+
+6stki w dziesietnym: 411
+6stki w osemkowym: 625

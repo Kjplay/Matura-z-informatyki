@@ -1,0 +1,15 @@
+Podpunkt 1	
+Zające	Wilki
+118,06	43,46
+	
+Podpunkt 2	
+Min n zajace	Min m wilki
+53		98
+
+Podpunkt 3
+W pliku "wykres.png"
+
+Podpunkt 4		
+	Min	Max
+Zające	78,85	123,32
+Wilki	28,05	55,80

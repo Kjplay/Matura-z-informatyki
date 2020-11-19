@@ -1,0 +1,12 @@
+4.1
+Gracze zdyskwalifikowani: 942
+4.2
+Gracz (jego nr) z najwyższą liczba punktow: 812
+Liczba punktów: 265
+
+UWAGA! Do startowej liczby punktów (0) dodawano liczbe punktow z pola startowego (3) - Niejasne polecenie, wynik może być za duży o 3
+4.3
+Najdłuższy ciag w jednym wierszu: 15
+Gracz(e) (ich nr) z takim ciagiem: 774 
+
+UWAGA! zadanie 4.3 było liczone NIEZALEŻNIE od dyskwalifikacji (ciąg był liczony nawet jeżeli zawodnik został zdyskwalifikowany - brak informacji w poleceniu)

@@ -1,0 +1,42 @@
+79.1
+I cwiartka: 1339
+II ciwartka: 274
+III cwiartka: 166
+IV cwiartka: 218
+pozostale: 3
+79.2
+Pary lustrzane: 158
+79.3
+Pary prostopadle: 231
+79.4
+Kolejny ciag: 6
+Kolejny ciag: 3
+Kolejny ciag: 11
+Kolejny ciag: 7
+Kolejny ciag: 4
+Kolejny ciag: 5
+Kolejny ciag: 12
+Kolejny ciag: 36
+Kolejny ciag: 18
+Kolejny ciag: 53
+Kolejny ciag: 87
+Kolejny ciag: 21
+Kolejny ciag: 73
+Kolejny ciag: 39
+Kolejny ciag: 31
+Kolejny ciag: 12
+Kolejny ciag: 41
+Kolejny ciag: 10
+Kolejny ciag: 64
+Kolejny ciag: 22
+Kolejny ciag: 57
+Kolejny ciag: 31
+Kolejny ciag: 41
+Kolejny ciag: 50
+Kolejny ciag: 65
+Kolejny ciag: 73
+Kolejny ciag: 45
+Kolejny ciag: 18
+Kolejny ciag: 37
+Kolejny ciag: 28
+Najdluzszy ciag: 87

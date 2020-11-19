@@ -1,0 +1,1 @@
+Sortowanie kubełkowe opisane w wysłanym pdfie to nie bucket sort, które służy do sortowania liczb zmiennoprzecinkowych, tylko pidgeonhole sort.

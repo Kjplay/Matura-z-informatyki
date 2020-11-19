@@ -1,0 +1,6 @@
+5.1
+Sasiedzi: 4
+5.2
+Zywe komorki: 8
+5.3
+W pokoleniu: 51, zywe komorki: 8

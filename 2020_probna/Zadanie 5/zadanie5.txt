@@ -1,0 +1,18 @@
+5_1
+15 004,00 zł
+
+5_2
+Pozycja:	95
+Wynik:	01.12.2027
+
+5_3
+W pliku wykres_5_3.png
+
+5_4
+Kwota:	805,57 zł
+
+5_5
+W pliku wykres_5_5.png
+
+5_6
+Kwota:	1 593,91 zł

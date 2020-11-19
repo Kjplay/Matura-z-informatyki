@@ -1,0 +1,64 @@
+5_1	Województwo	Nazwa strefy		Kod strefy	Kod stacji	Wartość
+	małopolskie	strefa małopolska	PL1203		MpBrzeszKosc	64,3
+
+5_2
+śląskie	1585,5
+2016	943,6
+2017	1585,5
+kujawsko-pomorskie	1386,3
+2016	765,2
+2017	1386,3
+łódzkie	941,4
+2016	614,7
+2017	941,4
+wielkopolskie	750
+2016	440,4
+2017	750
+dolnośląskie	676,1
+2016	676,1
+2017	664,6
+małopolskie	659,1
+2016	630,7
+2017	659,1
+świętokrzyskie	626
+2016	346
+2017	626
+podkarpackie	601,1
+2016	314
+2017	601,1
+lubelskie	560,2
+2016	551,1
+2017	560,2
+mazowieckie	552,7
+2016	552,7
+2017	399,3
+opolskie	526,7
+2016	297,5
+2017	526,7
+pomorskie	488
+2016	488
+2017	351,9
+podlaskie	486,7
+2016	486,7
+2017	383,8
+zachodniopomorskie	451,4
+2016	286,5
+2017	451,4
+lubuskie	410,4
+2016	337,3
+2017	410,4
+warmińsko-mazurskie	368,1
+2016	264,5
+2017	368,1
+
+5_3
+W pliku 5_3.png
+
+5_4
+Wg średnich		
+Województwo	Najlepszy stan	Odczyty
+pomorskie	Bardzo dobry	11
+
+Wg maks		
+Województwo	Najgorszy stan	Odczyty
+śląskie		Bardzo zły	32

@@ -1,0 +1,11 @@
+69.1
+Gatunki: 207
+Max osobniki tego samego: 20
+69.2
+8
+69.3
+Max geny u jednego: 11
+Max dlugosc genu: 189
+69.4
+Odporne: 249
+Silnie odporne: 187

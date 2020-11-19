@@ -1,0 +1,15 @@
+Podpunkt 1	
+X	Y
+687,00	680
+	
+Podpunkt 2	
+3323	
+
+Podpunkt 3
+260
+
+Podpunkt 4
+125
+
+Podpunkt 5
+8,13

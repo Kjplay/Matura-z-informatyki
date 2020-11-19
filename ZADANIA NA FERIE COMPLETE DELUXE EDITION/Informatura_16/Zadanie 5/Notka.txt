@@ -1,0 +1,7 @@
+REGON
+7 cyfrowy --> stary regon, dopisać dwa zera na początku
+8 cyfrowy --> (9, ale bez cyfry kontrolnej), dopisać
+9 cyfrowy --> OK
+11 cyfrowy --> ??? (JAK TO ROZWIĄZAĆ) <-- TU TKWI PROBLEM
+12 cyfrowy --> (14, ale bez 2 cyfr kontrolnych), dopisać
+14 cyfrowy --> OK

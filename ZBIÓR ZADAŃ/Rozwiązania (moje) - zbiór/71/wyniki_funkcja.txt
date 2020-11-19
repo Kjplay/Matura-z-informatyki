@@ -1,0 +1,10 @@
+71.1
+f(1.5) = 2.09032
+71.2
+x = 4.092
+f(x) = 3.06495
+71.3
+Miejsce zerowe: 0.53656
+Miejsce zerowe: 2.52073
+Miejsce zerowe: 3.31769
+Miejsce zerowe: 4.84971

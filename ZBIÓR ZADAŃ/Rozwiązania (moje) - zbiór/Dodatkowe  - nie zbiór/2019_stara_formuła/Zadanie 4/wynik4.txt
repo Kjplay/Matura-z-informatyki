@@ -1,0 +1,8 @@
+WYNIKI
+4.1
+5
+4.2
+14, 39
+4.3
+Rozmiar placu: 12
+Nr dzialki/ek: 28 32 45 

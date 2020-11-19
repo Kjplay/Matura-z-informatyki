@@ -1,0 +1,20 @@
+4.1
+Zestaw 1: 58
+Zestaw 2: 44
+Zestaw 3: 78
+
+4.2
+Zestaw 1: 247
+Zestaw 2: 182
+Zestaw 3: 247
+
+4.3
+Zestaw 1: 63
+Zestaw 2: 56
+Zestaw 3: 82
+
+4.4
+Zestaw 1: 627
+Zestaw 2: 329
+Zestaw 3: 1996
+

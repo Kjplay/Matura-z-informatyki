@@ -1,0 +1,10 @@
+4_1		
+Ilosć	Woda	X
+4600,00	1917,28	2682,72
+4_2	
+Stężenie	Dolana woda
+3,77%	14500,00
+4_3
+plik "wykres.png"
+4_4
+Maksymalna objetosc: 28.04ml

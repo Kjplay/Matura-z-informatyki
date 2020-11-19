@@ -1,0 +1,4 @@
+Wyniki w 2 podpunktach różnią się, jednak sposób obliczania jest dobry (to przez różnicę iluśtam vyfr po przecinku)
+Sposoby są takie same jak w poprzednich zadaniach, gdzie dawały idealne wyniki XD
+np jeżeli boki tójkąta to a, b, c POSORTOWANE rosnąco
+to pow(a, 2)+pow(b, 2) == pow(c, 2) nie działa :( - czemu?

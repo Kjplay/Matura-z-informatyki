@@ -1,0 +1,26 @@
+Podpunkt 1	Tank Pb95	Tank LPG
+        	    43           78
+
+Podpunkt 2	Data
+            2014-02-07
+
+Podpunkt 3
+W pliku wykres.png
+
+Podpunkt 4
+LPG+Paliwo
+         Pb95        LPG
+Koszt	1.926,95 zł	4.846,11 zł
+Suma		
+8373,06 zł
+
+Tylko Paliwo
+KM	Koszt Pb
+29944	8.965,23 zł
+
+Zaoszczędzone
+592,17 zł 
+
+
+
+ 
